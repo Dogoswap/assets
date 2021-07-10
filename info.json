@@ -1,0 +1,11 @@
+{  
+  "name": "Baby Dogo Coin",
+    "website": "https://babydogo.finance/",
+    "description": "BabyDogo Coin aims to offer a blockchain-based farm, betting, mining and gaming platform on the BEP20 network, which is completely decentralized and operates on smart contracts.",
+    "explorer": "https://bscscan.com/token/0x6eb52af9541bc5a7e9f671daecd300cb55831a1e",
+    "type": "BEP20",
+    "symbol": "BabyDogo",
+    "decimals": 0,
+    "status": "active",
+    "id": "0x6eb52af9541bc5a7e9f671daecd300cb55831a1e"
+}
